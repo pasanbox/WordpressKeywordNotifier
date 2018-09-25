@@ -17,5 +17,8 @@
 //
 
 @final string EMAIL_SUBJECT = "Comment found with matching keyword/s";
+@final string EMAIL_BODY = "Following comment matches your keywords: ";
 @final string AUTHOR_PREFERENCES_FILE_NAME = "./author_keywords.csv";
+@final string STORED_DATA_FILE_NAME = "./stored_data.csv";
 @final string CSV_FILE_KEYWORDS_SEPERATOR = " ";
+@final string EMPTY_STRING = "";
